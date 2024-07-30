@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I’m Danish! 👋
 
-<!--
-**itzdanishsalmani/itzdanishsalmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Full Stack Developer | 💻 Programmer  
 
-Here are some ideas to get you started:
+Welcome to my Github profile! I'm a full stack developer from India with a passion for programming. I'm always eager to learn new technologies, currently focusing on learning Next.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Portfolio [live link](https://danishsalmani.vercel.app/)
+    
+How to reach me?  
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-danish-salmani-ab2586258/) , [Twitter](https://x.com/itzzdanish) or shoot me an email at salmanidanish488@gmail.com   
+
+My GitHub Stats  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itzdanishsalmani&theme=dark))](https://git.io/streak-stats)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdanishsalmani&theme=dark&layout=compact)
+
+Visitor  
+Thanks for visiting my profile! Let's connect and build something amazing together! 🙌  
+![](https://komarev.com/ghpvc/?username=itzdanishsalmani&color=blue)
