@@ -2,7 +2,7 @@
 
 🤖 Full Stack Developer | 💻 Programmer  
 
-Welcome to my Github profile! I'm a full stack developer from India with a passion for programming. I'm always eager to learn new technologies, currently focusing on learning Next.js  
+Welcome to my Github profile! I'm a full stack developer from India with a passion for programming. I'm always eager to learn new technologies, currently focusing on learning React Native    
 
 My Portfolio [live link](https://danishsalmani.vercel.app/)
     
