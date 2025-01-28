@@ -10,8 +10,7 @@ How to reach me?
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-danish-salmani-ab2586258/) , [Twitter](https://x.com/itzzdanish) or shoot me an email at salmanidanish488@gmail.com   
 
 My GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itzdanishsalmani&theme=dark))](https://git.io/streak-stats)  
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itzdanishsalmani))](https://git.io/streak-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdanishsalmani&theme=dark&layout=compact)
 
 Visitor  
