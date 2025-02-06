@@ -11,7 +11,6 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-danis
 
 My GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itzdanishsalmani)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdanishsalmani&theme=dark&layout=compact)
 
 Visitor  
